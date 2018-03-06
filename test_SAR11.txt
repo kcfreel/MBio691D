@@ -1,0 +1,27 @@
+Going through genomes SAR11 (HIMB123 and HIMB109) 
+
+We’ve already made nextera libraries from 200ul of each culture.  In adition, we’re also planning to do MDA on cells harvested from a different aliquot of 200ul.  We didn’t talk about this initially, but thought it was worth giving a shot.  We’ll run them all together.  That being said, ti will still be a few weeks before we get data.  My group can move sample through queue quickly by bypassin certain steps, but we can’t cut straight to the front of the line.
+
+
+Hi Mik and Kelle,
+
+I’m trying to figure out best way to share data with you, but I can tell you that the genomes looked better when we did MDA from a few thousand cells rather than going directly to nextera without prior amplification.  In some cases I think we’re getting the nearly the entire genome, but as with illumina assemblies they tend to be in ~100 contigs.  
+
+The deadline for small scale CSP is Sept 5, but the application is much smaller than regular CSP.  Check out link below.  This could be a good way to get officially started on the project.  IF accepted, we could talk more about technical strategy, e.g. improving direct to nexter vs MDA.
+
+http://jgi.doe.gov/user-program-info/community-science-program/how-to-propose-a-csp-project/small-scale/
+
+
+Please go to:
+
+ https://genome.jgi.doe.gov/
+
+
+And enter “SAR11 isolate minimal sort“ into the search.  You should see 14 private entries.  Let me know if this isn’t  the case. 
+
+You’ll have to login first because access is restricted to you, me, and Kelle.
+
+
+
+Check everything with FastQC
+- 
